@@ -1,0 +1,16 @@
+/*
+Icon classes can be used entirely standalone. They are named after their original file names.
+
+```html
+<i class="icon-home"></i>
+```
+*/
+.bgw-firstmedia {
+  background-position: 0px 0px;
+}
+.bgw-platypus-wpo {
+  background-position: 0px -202px;
+}
+.bgw-rw13 {
+  background-position: 0px -404px;
+}

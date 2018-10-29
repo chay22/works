@@ -1,0 +1,22 @@
+/*
+Icon classes can be used entirely standalone. They are named after their original file names.
+
+```html
+<i class="icon-home"></i>
+```
+*/
+.ic-email:before {
+  background-position: 0px 2px;
+}
+.ic-facebook:before {
+  background-position: 0px -24px;
+}
+.ic-github:before {
+  background-position: 0px -50px;
+}
+.ic-stackoverflow:before {
+  background-position: 0px -76px;
+}
+.ic-twitter:before {
+  background-position: 0px -102px;
+}

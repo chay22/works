@@ -1,0 +1,19 @@
+@import "@/assets/css/sprite.css";
+@import "@/assets/css/worksprite.css";
+
+.ic {
+  &:before {
+    content: '';
+    background-image: url(../img/sprite.png);
+    background-repeat: no-repeat;
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+  }
+}
+
+[class^="bgw-"] {
+  background-image: url(../img/worksprite.png);
+  width: 300px;
+  height: 200px;
+}
