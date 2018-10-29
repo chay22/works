@@ -36,33 +36,28 @@ export default {
       socialMedia: [
         {
           type: 'email',
-          title: 'cahyadinugraha18@gmail.com',
+          title: 'Email',
           url: 'mailto:cahyadinugraha18@gmail.com',
-          label: 'cahyadinugraha18@gmail.com'
         },
         {
           type: 'stackoverflow',
           title: 'StackOverflow',
           url: 'https://stackoverflow.com/users/5816907/chay22',
-          label: 'chay22'
         },
         {
           type: 'github',
           title: 'Github',
           url: 'https://github.com/chay22',
-          label: 'chay22'
         },
         {
           type: 'twitter',
           title: 'Twitter',
           url: 'https://twitter.com/chyir',
-          label: 'chyir'
         },
         {
           type: 'facebook',
           title: 'Facebook',
           url: 'https://www.facebook.com/chay.nugraha',
-          label: 'Cahyadi Nugraha'
         }
       ]
     }
